@@ -1,0 +1,48 @@
+[
+	{
+		"imgUrl": "img/index/banner-left-bottom1.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom2.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom3.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom4.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom5.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom6.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom2.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom1.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom2.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom3.jpg",
+		"targetUrl": "http://localhost/tiantian/index.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom4.jpg",
+		"targetUrl": "http://localhost/tiantian/index.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom5.jpg",
+		"targetUrl": "http://localhost/tiantian/index.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom6.jpg",
+		"targetUrl": "http://localhost/tiantian/index.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom2.jpg",
+		"targetUrl": "http://localhost/tiantian/index.html"
+	}, {
+		"imgUrl": "img/index/banner-left-bottom2.jpg",
+		"targetUrl": "http://localhost/tiantian/index.html"
+	}
+]

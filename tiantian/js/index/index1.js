@@ -1,0 +1,1 @@
+var lunboTwo = new LunBo("lbt2","js/index/data1.json");

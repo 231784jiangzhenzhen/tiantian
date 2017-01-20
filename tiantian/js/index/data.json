@@ -1,0 +1,33 @@
+[
+	{
+		"imgUrl": "img/index/banner-left-top1.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top2.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top3.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top4.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top5.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top6.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top7.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top8.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top9.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}, {
+		"imgUrl": "img/index/banner-left-top10.jpg",
+		"targetUrl": "http://127.0.0.1/tiantian/activity.html"
+	}
+]

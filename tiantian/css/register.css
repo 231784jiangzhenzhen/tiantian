@@ -1,0 +1,66 @@
+html,body,div,span,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,big,cite,code,del,em,font,img,ins,small,strong,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend{margin:0;padding:0}
+ol,ul{list-style:none}
+:focus{outline:0}
+a img{border:0}
+img{vertical-align:middle}
+table{empty-cells:show}
+body{font:12px/150% Arial,Verdana,"\5b8b\4f53";color:#333;background:#f2f2f2;_background-image:url(about:blank);_background-attachment:fixed}
+h1{font:20px "microsoft yahei","\5b8b\4f53"}
+h2,h3{font-size:14px}
+h4,h5,h6{font-size:12px}
+a{color:#666;text-decoration:none}
+a:hover{color:#ff6000;text-decoration:underline}
+/*版心*/
+.content{width: 990px;margin: 0 auto;}
+.root8 .content{width:1210px;}
+
+/*头部样式*/
+#top,#top .content{height:30px;background:#fafafa}
+#top{width:100%;border-bottom:1px solid #eee;line-height:30px}
+#top li{height:30px;padding:0 11px 0 12px}
+#top li s{top:9px;left:0;width:0;height:12px;border-left:1px solid #DDD;overflow:hidden}
+#top b{transition:transform .2s ease-in 0s;}
+/*左边样式*/
+#top .top-left{overflow: visible;float: left;}
+#top .top-left .fore1{padding-left: 16px;z-index: 1;position: relative;}
+#top .top-left b{position:absolute;top:8px;left:0px;overflow:hidden;width: 13px;height: 13px;background: url(../img/commonImg/top-left.png) no-repeat 0 0 ;cursor:pointer;}
+#top .top-left li:hover b{transform: rotate(720deg);}
+/*右边样式*/
+#top .top-right{overflow: visible;float: right;}
+#top .top-right li{float: left;}
+#top .top-right .fore2{position: relative;zoom: 1;}
+#top .top-right .fore2 s{position: absolute;top: 9px;left: 0;width: 0;height: 12px;border-left: 1px soli #ddd;overflow: hidden;}
+#top .top-right .fore2-1 {position: relative;zoom: 1;}
+#top .top-right .fore2-1 s{position: absolute;top: 9px;left: 0;width: 0;height: 12px;border-left: 1px soli #ddd;overflow: hidden;}
+/*logo*/
+.logo{margin-top:10px;min-height: 80px;}
+
+
+/* register * */
+.register .register-top{padding-right: 10px;position: relative;overflow:visible;margin-bottom: -1px;border-bottom: 1px solid#ddd;height: 32px;line-height: 32px;}
+.register .register-top .register-topleft{height: 33px;padding-left:277px ;overflow: hidden;zoom: 1;}
+.register .register-top .register-topleft li{border: 1px solid #ddd;cursor: pointer;}
+.register .register-top .register-topleft li.active{color: #e4393c;border-bottom: none;background: #fff;}
+.register .register-top .register-topleft .personalUser{box-shadow:2px 0 2px #ddd;border: 1px solid #dddd;margin-right:5px ;font-size: 14px;width: 100px;text-align: center;float: left;font-weight: bold;line-height: 32px;}
+.register-top .register-topleft .elegantCard{background: #F7F7F7;/*border-bottom: 1px solid #ddd;*/margin-right: 5px;margin-top: 0px;height: 28px;text-align: center;line-height: 28px;color:#f79100 ;float: left;width: 100px;height:34px ;color:#333;text-decoration: none;font-size: 14px;}
+.register .register-top .register-topright{position: absolute;right: 20px;top:5px;float: right;line-height: 32px;}
+.register .register-top .register-topright .register-topright-a{color:#005aa0;}
+.register .register-bottom{padding: 30px 0 20px;border: solid #ddd;border-width:0 1px 1px ;overflow: hidden;zoom: 1;background: #fff;}
+.register .register-bottom form{float: left;width:978px;position: relative;display: none;}
+.register .register-bottom .form.active{display: block;}
+.register .register-bottom form p{padding-left: 9px;height: 60px;line-height: 34px;position: relative;z-index: 5;overflow: visible;}
+.register .register-bottom form p span{color:#999;width: 190px;text-align: right;font-size: 14px;color:#999;padding-right: 10px;float: left;}
+.register .register-bottom form p span b{color:#f00;}
+.register .register-bottom form p input{width: 269px;height: 36px;border: none;border: 1px solid #cccccc;}
+.register .register-bottom form p strong{float: right;margin-right:226px;width: 269px;height: 36px;background: #f4f4f4;display: none;border:1px solid #cccccc;font-weight: 100;}
+.register .register-bottom form p   .pwdTip{background: #FFEBEB;color: #FF0000;border: 1px solid #FFBDBE;}
+.register .register-bottom form p #checkbox{width: 15px;height: 15px;}
+.register .register-bottom form p #checkbox1{width: 15px;height: 15px;}
+.register .register-bottom form p label{text-align: center;}
+.register .register-bottom form p label a{color:#005AA0;}
+#protocol_error{color: #F00;line-height: 36px;position: absolute;top:0px;left:443px;width: 260px;padding: 0 5px;background: #FFEBEB;border: 1px solid #FFBDBE;float: left;}
+.register .register-bottom form p #btn{background: #e33d3f;color: #fff;cursor: pointer;font-weight: bold;line-height: 36px;overflow: hidden;font-size: 20px;}
+.register .register-bottom form p #btn1{background: #e33d3f;color: #fff;cursor: pointer;font-weight: bold;line-height: 36px;overflow: hidden;font-size: 20px;}
+/*footer*/
+.footer{text-align: center;margin-bottom: 33px;}
+.footer .copyright{text-align: center;margin: 10px 0;color: #222;}

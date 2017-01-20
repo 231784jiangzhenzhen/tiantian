@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<link rel="stylesheet" href="css/register.css" />
+	<script src="js/jquery-1.11.0.js"></script>
+	
+	<body>
+		<!--top-->
+		<div id="top">
+			<div class="content">
+				<ul class="top-left">
+					<li class="fore1">
+						<b></b>
+						<a href="javascript:void;">收藏天添网</a>
+					</li>
+				</ul>
+				<ul class="top-right">
+					<li class="login">
+						你好，欢迎来到天添!
+						<a href="login.html">[登录]</a>
+						<a href="register.html">[免费注册]</a>
+					</li>
+					<li class="fore2">
+						<s></s>
+						<a href="#">我的订单</a>
+					</li>
+					<li class="fore2-1">
+						<s></s>
+						<a href="#">书香卡</a>
+					</li>
+				</ul>
+				<span></span>
+			</div>
+		</div>
+		<!--logo-->
+		<div class="content">
+			<div class="logo">
+				<a href="#">
+					<img src="img/commonImg/logo.png" alt="天添商城" />
+				</a>
+				<b></b>
+			</div>
+		</div>
+		<!--	register-->
+		<div class="content">
+			<div class="register">
+				<!--注册上面-->
+				<div class="register-top">
+					<ul class="register-topleft">
+						<li class="personalUser active">个人用户</li>
+						<li class="elegantCard">
+							<!--<a href="javascript:;">-->书香卡注册
+							<!--</a>-->
+						</li>
+					</ul>
+					<div class="register-topright">
+						我已经注册，现在就
+						<a href="login.html" class="register-topright-a">登录</a>
+					</div>
+				</div>
+				<!--注册表单-->
+				<div class="register-bottom">
+					<form class="form active">
+						<p>
+							<span><b>*</b>账户名</span>
+							<input type="text" value="" class="username" id="userName"/>
+							<strong></strong>
+						</p>
+						<p>
+							<span><b>*</b>请设置密码</span>
+							<input type="password" id="pWd"/>
+							<strong class="pwdTip"></strong>
+						</p>
+						<p>
+							<span><b>*</b>请确认密码</span>
+							<input type="password"  id="pWd1"/>
+							<strong class="pwdTip"></strong>
+						</p>
+						<p>
+							<span>&nbsp;</span>
+							<input type="checkbox" id="checkbox" />
+							<label>我已阅读并同意<a href="javascript:;">《天添用户注册协议》</a></label>
+							<strong id="protocol_error"></strong>
+						</p>
+						<p>
+							<span>&nbsp;</span>
+							<input type="button" name="btn" id="btn" value="立即注册" />
+						</p>
+					</form>
+					<form class="form">
+						<p>
+							<span><b>*</b>书香卡号</span>
+							<input type="text" value="" id="card" />
+							<strong></strong>
+						</p>
+						<p>
+							<span><b>*</b>请输入书香卡密码</span>
+							<input type="password" value="" id="cardPwd"/>
+							<strong class="pwdTip"></strong>
+						</p>
+						<p>
+
+						</p>
+						<p>
+							<span>&nbsp;</span>
+							<input type="checkbox" id="checkbox1" />
+							<label>我已阅读并同意<a href="javascript:;">《天添用户注册协议》</a></label>
+							<strong id="protocol_error"></strong>
+						</p>
+						<p>
+							<span>&nbsp;</span>
+							<input type="button" name="btn" id="btn1" value="立即注册" />
+						</p>
+					</form>
+				</div>
+			</div>
+		</div>
+		<!--footer-->
+		<div class="content">
+			<div class="footer">
+				<div class="copyright">
+					Copyright&copy;2004-2013 TJBB.com版权所有
+
+				</div>
+			</div>
+		</div>
+		<script src="js/register/register.js"></script>
+		<script src="js/register/card.js"></script>
+	</body>
+
+</html>
